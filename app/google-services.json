@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787409260713",
+    "project_id": "kidneycancerdetector-3a91c",
+    "storage_bucket": "kidneycancerdetector-3a91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787409260713:android:04dba023fc0896093899b8",
+        "android_client_info": {
+          "package_name": "com.hamza.kidneycancerdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBov2n0Z-afk2OrmYm7H8gveEGXvV0s5nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
